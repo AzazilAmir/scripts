@@ -1,0 +1,5 @@
+requests
+dnspython
+pycryptodome
+browser-cookie3
+pywin32
