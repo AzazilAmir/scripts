@@ -1,6 +1,4 @@
-Sure! Here's a complete **README.md** file in English explaining what the code does, how to use it, and how to compile it into a hidden `.exe` file:
 
----
 
 ### 📘 README.md
 
