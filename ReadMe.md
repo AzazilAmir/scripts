@@ -1,7 +1,4 @@
 
-
-### 📘 README.md
-
 ```markdown
 # 🔐 Browser Credential & Cookie Extractor (Stealth Mode)
 
